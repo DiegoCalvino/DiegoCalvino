@@ -1,16 +1,38 @@
-## Hi there 👋
+Diego Calviño
 
-<!--
-**DiegoCalvino/DiegoCalvino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering · Process Assurance · Automation
 
-Here are some ideas to get you started:
+From operational complexity to verifiable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About
+
+I design and develop software systems informed by real-world operational experience.
+
+My background combines 10+ years in IP networking with operational logistics, coordination and process management.
+
+This experience shapes my engineering approach: understanding dependencies, anticipating failure conditions and translating operational requirements into structured, testable solutions.
+
+Engineering Focus
+
+* Systems Integration — connecting components, services and data across operational environments.
+* Process Assurance — workflow consistency, validation, exception handling and traceability.
+* Software Automation — reducing manual operations through controlled, verifiable workflows.
+* AI-assisted Engineering — specification-driven development, task decomposition, testing and systematic validation.
+
+Technical Practice
+
+Development: Node.js · JavaScript · React · REST APIs
+
+Data: PostgreSQL · SQL · Data Modelling
+
+Engineering: Modular Architecture · Integration Testing · Automated Validation
+
+Operational Background: IP Networking · Logistics · Process Coordination
+
+My approach prioritises clear requirements, explicit system boundaries, reproducible tests and observable results.
+
+Portfolio & Contact
+
+For professional background, selected engineering projects and case studies:
+
+diegocalvino.com
